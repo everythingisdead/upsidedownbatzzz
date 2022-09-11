@@ -1,0 +1,20 @@
+{
+  "WEBSITE": "Website",
+  "CONTRACT": "Contract",
+  "CONTRACT_ADDRESS": "0xfD29dD66336246FEDa13809E602DbD39873072eD",
+  "SCAN_LINK": "https://etherscan.io/address/0xfD29dD66336246FEDa13809E602DbD39873072eD",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "UpsidedownBatz",
+  "SYMBOL": "UbB",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/upsidedownbatz",
+  "SHOW_BACKGROUND": true
+}
